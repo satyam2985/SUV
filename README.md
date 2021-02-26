@@ -8,12 +8,12 @@
 | Width| Height/Weight/Length Comparison |   |
 | 2nd & 3rd Row Merger(bed Type) | Alloys |   |
 | Apple Car Play | Connected Apps |   |
-| Navigation |  |   |
+| Navigation | Side Turn Light |   |
 | Non Bucket Mid Row |  |   |
 | 2nd & 3rd Row AC control & mount |  |   |
-|  |  |   |
-|  |  |   |
-|  |  |   |
+| Hill Ascend & Decend |  |   |
+| Projector Lights  |  |   |
+| Curtain Airbags  |  |   |
 |  |  |   |
 |  |  |   |
 |  |  |   |
