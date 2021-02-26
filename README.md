@@ -6,9 +6,9 @@
 | Automatic Transmission  | Boot Space Capaciy | Charging ports  |
 | Engine Power | Ingress/egress|   |
 | Width| Height/Weight/Length Comparison |   |
-| 2nd & 3rd Row Merger(bed Type) |  |   |
-|  |  |   |
-|  |  |   |
+| 2nd & 3rd Row Merger(bed Type) | Alloys |   |
+| Apple Car Play | Connected Apps |   |
+| Navigation |  |   |
 |  |  |   |
 |  |  |   |
 |  |  |   |
