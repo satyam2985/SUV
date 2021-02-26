@@ -9,7 +9,7 @@
 | 2nd & 3rd Row Merger(bed Type) | Alloys |   |
 | Apple Car Play | Connected Apps |   |
 | Navigation |  |   |
-|  |  |   |
+| Non Bucket Mid Row |  |   |
 |  |  |   |
 |  |  |   |
 |  |  |   |
