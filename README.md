@@ -13,7 +13,7 @@
 | 2nd & 3rd Row AC control & mount |  |   |
 | Hill Ascend & Decend |  |   |
 | Projector Lights  |  |   |
-| Curtain Airbags  |  |   |
+| Curtain Airbags -6   |  |   |
 |  |  |   |
 |  |  |   |
 |  |  |   |
