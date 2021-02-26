@@ -1,6 +1,6 @@
 # SUV
 
-|    Features |                               
+| Features |                              
 | Must Have | Good To Have | Optional |
 | --- | --- | --- |
 | git status | List all new or modified files |
