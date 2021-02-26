@@ -1,7 +1,7 @@
 # SUV
 
-|    Features                                |
-| Must Have     | Good To Have  |  OPtional  | 
+|    Features |                               
+| Must Have | Good To Have|  OPtional  | 
 | ------------- | ------------- |
 
 
