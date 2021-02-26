@@ -9,7 +9,7 @@
 | 2nd & 3rd Row Merger(bed Type) | Alloys |   |
 | Apple Car Play | Connected Apps |   |
 | Navigation | Side Turn Light |   |
-| Non Bucket Mid Row |  |   |
+| Non Bucket Mid Row | Terrain Modes |   |
 | 2nd & 3rd Row AC control & mount |  |   |
 | Hill Ascend & Decend |  |   |
 | Projector Lights  |  |   |
