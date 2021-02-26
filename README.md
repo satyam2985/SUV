@@ -11,7 +11,7 @@
 | Navigation | Side cornering Light |   |
 | Non Bucket Mid Row | Terrain Modes |   |
 | 2nd & 3rd Row AC control & mount |  |   |
-| Hill Ascend & Decend |  |   |
+| Hill Ascend & Decend | Cooled Glove Compartment |   |
 | Projector Lights  |  |   |
 | Curtain Airbags -6   |  |   |
 |  |  |   |
