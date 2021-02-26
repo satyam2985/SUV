@@ -10,7 +10,7 @@
 | Apple Car Play | Connected Apps |   |
 | Navigation |  |   |
 | Non Bucket Mid Row |  |   |
-|  |  |   |
+| 2nd & 3rd Row AC control & mount |  |   |
 |  |  |   |
 |  |  |   |
 |  |  |   |
